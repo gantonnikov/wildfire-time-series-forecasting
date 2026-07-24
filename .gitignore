@@ -1,0 +1,16 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user/
+
+*_cache/
+*_files/
+
+*.aux
+*.log
+*.out
+*.tex
+*.toc
+
+analysis/wildfire_forecasting.html
+analysis/wildfire_forecasting.pdf
